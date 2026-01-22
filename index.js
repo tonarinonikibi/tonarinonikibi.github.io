@@ -1,7 +1,7 @@
 'use strict' ;
-const title = document.getElementById('h1');
-const title = document.getElementById('h2');
-const title = document.getElementById('h3');
+const title0 = document.getElementById('h1');
+const title1 = document.getElementById('h2');
+const title2 = document.getElementById('h3');
 
 let angle = 0;
 
