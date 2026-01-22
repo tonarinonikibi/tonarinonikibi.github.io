@@ -1,5 +1,5 @@
 'use strict' ;
-const targets = document.getElementById('h1, image');
+const targets = document.getElementById('h1, img');
 
 let angle = 0;
 
