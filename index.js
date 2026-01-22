@@ -1,4 +1,4 @@
-'use strict' ;
+'use strict';
 const title = document.getElementById('h1');
 let angle = 0;
 
