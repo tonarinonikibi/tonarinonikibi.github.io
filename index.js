@@ -1,5 +1,8 @@
 'use strict' ;
 const title = document.getElementById('h1');
+const title = document.getElementById('h2');
+const title = document.getElementById('h3');
+
 let angle = 0;
 
 function shake() {
