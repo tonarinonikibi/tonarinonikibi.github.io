@@ -1,4 +1,4 @@
-'use strict' ;
+'use index' ;
 const title = document.querySelector('h1');
 let angle = 0;
 
